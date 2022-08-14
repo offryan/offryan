@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10DCFF&center=verdadeiro&vCenter=verdadeiro&width=435&lines=My+Name+is+Ryan+Gomes+dos+Santos;I+Have+19+Years+Old;I+From+S%C3%A3o+Paulo+-+SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFFcenter=verdadeiro&vCenter=verdadeiro&width=435&lines=My+Name+is+Ryan+Gomes+dos+Santos;I+Have+19+Years+Old;I+From+S%C3%A3o+Paulo+-+SP)](https://git.io/typing-svg)
 
 
 <div align="center">  
