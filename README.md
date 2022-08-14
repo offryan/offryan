@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10DCFF&center=verdadeiro&vCenter=verdadeiro&width=435&lines=My+Name+is+Ryan+Gomes+dos+Santos;I+Have+19+Years+Old;I+From+S%C3%A3o+Paulo+-+SP)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryan+Gomes+dos+Santos ;I'm+19+years+old;I+from+São Paulo,+SP;I+study+systems+development+at+Unicsul;Be+Welcome!+:%29)](https://git.io/typing-svg)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Gomes dos Santos github stats" /> 
