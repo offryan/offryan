@@ -11,14 +11,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=offryan&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+### Social Midia:
+
 <a href="https://www.instagram.com/0ffryan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- </div>
- 
-  <div align="center">  
-  <a href="https://steamcommunity.com/id/ryansoxx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
-  
-</div> 
+
+<a href="https://www.linkedin.com/in/uauryan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
+
+
  
 ### Main skills:
   
