@@ -44,7 +44,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-D83B01?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
   
 ### Studying in this moment:
   
