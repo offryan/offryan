@@ -13,6 +13,9 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/0ffryan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  
+  <a href="https://steamcommunity.com/id/ryansoxx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
+  
 </div> 
  
 ### Main skills:
