@@ -49,6 +49,7 @@
   
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Chakra](https://img.shields.io/badge/chakra-0D1117?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&textColor=1572B6)&nbsp;
 
 <div align="center">
