@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/uauryan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
-### ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) skills:
+### https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white skills:
   
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)
@@ -27,7 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
   
   
 ### Tools:
