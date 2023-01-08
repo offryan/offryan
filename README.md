@@ -20,7 +20,7 @@
 <br>
 <li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas linguagens desenvolvidas foram: Criação e implementação de API | HTML | CSS |JS | JQUERY | C# | .NET FRAMEWORK | ASP.NET | XAMARIN | MSSQL |</li>
+<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades de programação em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas linguagens desenvolvidas foram: Criação e implementação de API | HTML | CSS |JS | JQUERY | C# | .NET FRAMEWORK | ASP.NET | XAMARIN | MSSQL |</li>
 <br>
 
 <li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
