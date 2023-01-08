@@ -18,13 +18,13 @@
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
 <br>
-<li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! 🚀</li><br>
+<li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 <br>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas linguagens desenvolvidas foram: HTML|CSS|JS|JQUERY|C#|.NET FRAMEWORK|ASP.NET|XAMARIN|MSSQL|🎓</li>
+<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas linguagens desenvolvidas foram: HTML|CSS|JS|JQUERY|C#|.NET FRAMEWORK|ASP.NET|XAMARIN|MSSQL|</li>
 <br>
 
-<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.🎓</li>
+<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
 <br>
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
@@ -68,17 +68,10 @@
 ![Chakra](https://img.shields.io/badge/chakra-0D1117?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&textColor=1572B6)&nbsp;
 
-
 <div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offryan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=offryan&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<br>
 
 <br>
 <!--Contatos-->
