@@ -1,5 +1,3 @@
-
-
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
   <br><p align="centre"><b>Visitors Count</b></p>
@@ -9,8 +7,6 @@
 <br><br>
 
 <img align = "right" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
-
-<!--FIM cabeçalho HELLO WORD-->
 
 ## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
@@ -33,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,linux&theme=dark" />
   </a>
 </p>
 
@@ -56,15 +52,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 
 ### Other Knowledge
 
