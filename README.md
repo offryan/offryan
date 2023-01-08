@@ -10,6 +10,11 @@
 <br><br>
 
 <img align = "right" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+
+<div align="right">
+<br><p align="right"><b>Visitors Count</b></p>
+<p align="right"><img align="right" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
+<br></div>
 <!--FIM cabeçalho HELLO WORD-->
 
 ## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
