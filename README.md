@@ -29,9 +29,6 @@
   </a>
 </p>
 
-<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
-<br>
-
 <li>🎓 Na faculdade pude desenvolver melhor boa parte das técnlogias que aprendi no curso técnico e principalmente o conhecimento com Hardware, tendo ainda mais situações desafiadoras. Consegui aprender e desenvolver muitos projetos e códigos em linguagens que ainda não tinha tido contato afundo como Java e Python</li>
 <br>
 
@@ -40,6 +37,9 @@
     <img src="https://skillicons.dev/icons?i=py,java" />
   </a>
 </p>
+
+<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
+<br>
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
