@@ -20,7 +20,7 @@
 <br>
 <li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades de programação em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas linguagens desenvolvidas foram: Criação e implementação de API | HTML | CSS |JS | JQUERY | C# | .NET FRAMEWORK | ASP.NET | XAMARIN | MSSQL |</li>
+<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades de programação em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas técnologias desenvolvidas que estão sem icone: | XAMARIN | MSSQL | XAMP | Postman API |</li>
 <br>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </ul>
 <br>
 
-### Developer skills:
+### Main skills:
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)
