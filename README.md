@@ -33,12 +33,12 @@
   </a>
 </p>
 
-<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
+<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual desenvolvi muitas habilidades com diversos sistemas operacionais (SO) e também com suporte e manutenção de computadores/servidores. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana sobre a lógica e dos processos de criações e manutenções avançados de Hardware.</li>
 <br>
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
-<br>
+
 
 ### Main skills
 
