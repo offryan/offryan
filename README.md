@@ -81,10 +81,10 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&textColor=1572B6)&nbsp;
 
 <div align="center">
-<b>Visitors Count</b>
-<img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" />
+<p><b>Visitors Count</b></p>
+<p><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
 </div>
 
 <br>
