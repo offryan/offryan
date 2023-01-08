@@ -3,7 +3,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 <br></div>
 
-
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
@@ -25,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,jquery,bootstrap,git,github,visualstudio,ps,cs,dotnet,php,mysql,aws,azure&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,jquery,bootstrap,git,github,visualstudio,ps,cs,dotnet,php,mysql,aws,azure&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -45,7 +44,7 @@
 </ul>
 <br>
 
-### Main skills:
+### Main skills
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)
@@ -58,8 +57,7 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-
-### Tools:
+### Tools
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -68,14 +66,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 
-### Other Knowledge:
+### Other Knowledge
 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E34F26)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
+### Studying in this moment
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
@@ -83,18 +81,21 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&textColor=1572B6)&nbsp;
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offryan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
+<br>
+
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
 </div>
 
 <br>
 <!--Contatos-->
 <h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+
 <div align="center">
 <a href="https://instagram.com/0ffryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:offryan.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/uauryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
