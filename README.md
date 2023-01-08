@@ -20,7 +20,7 @@
 <br>
 <li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude desenvolver muitas habilidades de programação em 1 ano de 'Desenvolvimento de Sistemas'. Como: executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. Algumas técnologias desenvolvidas que estão sem icone: | XAMARIN | MSSQL | XAMP | Postman API |</li>
+<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades de programação em 1 ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades curriculares (UC'S) focadas no desenvolvimento de Software nos colocando como empresas, muitas vezes fazem nós entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. (PS: Algumas técnologias desenvolvidas, porém, que estão sem icone ainda: | XAMARIN | MSSQL | XAMP | Postman API |</li>
 <br>
 
 <p align="center">
@@ -31,6 +31,15 @@
 
 <li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual fui certificado e estou apto a fazer manutenções e suportes de ambos. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver em simultâneo o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana.</li>
 <br>
+
+<li>🎓 Na faculdade pude desenvolver melhor boa parte das técnlogias que aprendi no curso técnico e principalmente o conhecimento com Hardware, tendo ainda mais situações desafiadoras. Consegui aprender e desenvolver muitos projetos e códigos em linguagens que ainda não tinha tido contato afundo como Java e Python</li>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,ps&perline=7" />
+  </a>
+</p>
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
