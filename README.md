@@ -12,6 +12,7 @@
 
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
+ <li> offryan.github.io/Portifolio </li>
 <br>
 <li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 
