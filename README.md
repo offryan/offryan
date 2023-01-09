@@ -11,8 +11,7 @@
 ## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
 <ul align="left">
-<li>📍Sou de São Paulo - SP e tenho 20 anos (offryan.github.io/Portifolio) </li>
-
+<li>📍Sou de São Paulo - SP e tenho 20 anos </li>
 <br>
 <li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
 
