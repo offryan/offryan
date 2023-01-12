@@ -2,7 +2,6 @@
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/e6cbd6b7-6766-40bc-a6ec-86be0c1eb35a/deploy-status)](https://app.netlify.com/sites/offryan/deploys)
 </div>
 
 <br><br>
