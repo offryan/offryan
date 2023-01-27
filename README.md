@@ -53,6 +53,7 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 ### Other Knowledge
 
