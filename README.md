@@ -25,9 +25,11 @@
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
 
+<img align = "right" width = "550px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+
 ### Front-End Development:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,jquery,bootstrap,mysql&theme=dark" />
   </a>
@@ -43,7 +45,7 @@
 
 ### sᴛᴜᴅʏɪɴɢ ɪɴ ᴛʜɪs ᴍᴏᴍᴇɴᴛ
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,ts&theme=dark" />
   </a>
@@ -51,13 +53,13 @@
 
 ### Other Knowledge
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,ps,figma,linux&theme=dark" />
   </a>
 </p>
 
-<div align="center">
+<div align="left">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offryan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
