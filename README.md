@@ -13,9 +13,9 @@
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
 <br>
-<li>🚀 Aguarde, em breve estarei formado em Ciência da Computação na Universidade Cruzeiro do Sul, na qual estou cursando o terceiro semestre! </li><br>
+<li>🚀 Aguarde, em breve estarei formado em Desenvolvimento Mobile na Universidade Cruzeiro do Sul! </li><br>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades principalmente em programação nos 1 ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades curriculares focadas no desenvolvimento de Software nos colocando como empresas, muitas vezes fazem nós entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. (PS: Algumas técnologias desenvolvidas, porém, que estão sem icone ainda: | XAMARIN | MSSQL | XAMP | Postman API |</li>
+<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades principalmente em programação no 1° ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades focadas no desenvolvimento de Software nos colocando como empresas, nos fazendo entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. (PS: Algumas técnologias desenvolvidas, porém, que estão sem icone ainda: | XAMARIN | MSSQL | XAMP | Postman API |</li>
 <br>
 
 <p align="center">
