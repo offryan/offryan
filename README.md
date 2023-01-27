@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img align = "lefe" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+<img align = "left" width = "450px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 
 ## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
