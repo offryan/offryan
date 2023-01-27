@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,mysql,ps,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,mysql&theme=dark" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,idea,java,spring,py,flask&theme=dark" />
   </a>
 </p>
 
@@ -45,15 +45,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,styledcomponents&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,styledcomponents&theme=dark" />
   </a>
 </p>
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![Chakra](https://img.shields.io/badge/chakra-0D1117?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&textColor=1572B6)&nbsp;
+### Other Knowledge
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,figma,linux&theme=dark" />
+  </a>
+</p>
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=offryan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="offryan github stats" />
