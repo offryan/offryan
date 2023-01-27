@@ -41,7 +41,7 @@
   </a>
 </p>
 
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘮𝘰𝘮𝘦𝘯𝘵
+### sᴛᴜᴅʏɪɴɢ ɪɴ ᴛʜɪs ᴍᴏᴍᴇɴᴛ
 
 <p align="center">
   <a href="https://skillicons.dev">
