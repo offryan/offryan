@@ -3,8 +3,8 @@
 </div>
 <div align = "left">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-  <br><p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
+  <br><p align="left"><b>Visitors Count</b></p>
+  <p align="left"><img align="left" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 </div>
 <br><br>
 
