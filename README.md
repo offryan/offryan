@@ -3,15 +3,16 @@
   <br><p align="centre"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 </div>
-
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
 <ul align="justify">
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
 <br>
-<li>🚀 Aguarde, em breve estarei formado em Desenvolvimento Mobile na Universidade Cruzeiro do Sul! </li><br>
+<li>🚀 Cursando Desenvolvimento Mobile na Universidade Cruzeiro do Sul! </li><br>
 
 <li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades principalmente em programação no 1° ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades focadas no desenvolvimento de Software nos colocando como empresas, nos fazendo entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites.
 <br>
@@ -24,8 +25,6 @@
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
-
-<img align = "right" width = "500px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 
 ### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
