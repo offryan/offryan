@@ -35,7 +35,7 @@
 
 ꧁༒☬ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ:☬༒꧂
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,flask&theme=dark" />
   </a>
