@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,flaskpy,py,spring&theme=dark&perline=2" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,flask,py,spring&theme=dark&perline=2" />
   </a>
 </p>
 
