@@ -63,7 +63,7 @@
 
 ### Studying in this moment
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Chakra](https://img.shields.io/badge/chakra-0D1117?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
