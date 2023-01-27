@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,jquery,bootstrap,mysql&theme=dark" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,idea,java,spring,py,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,idea,java,spring,vscode,py,flask&theme=dark" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,styledcomponents&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts&theme=dark" />
   </a>
 </p>
 
