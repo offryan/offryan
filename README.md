@@ -1,12 +1,11 @@
-<div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="400px" display="inline-block" alt="Setup"></div>
+
   
-<div align = "left">
+<div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-  <br><p align="left"><b>Visitors Count</b></p>
+  <br><p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 </div>
-<br><br>
+
 
 ## Fala, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
@@ -17,10 +16,13 @@
 <li>🎓1 Ano Bacharel em Ciência da Computação, Unicsul (02/2022 > 02/2023)</li>
 <li>🎓2 Anos de Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
 <li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (08/2021 > 04/2022)</li>
-
 <br>
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
+
+
+<div align = "left">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="400px" display="inline-block" alt="Setup"></div>
 
 ### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
