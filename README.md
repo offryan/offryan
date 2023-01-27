@@ -27,7 +27,7 @@
 
 <img align = "right" width = "550px"  src = "https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 
-### Front-End Development:
+### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-▀▄▀▄▀▄ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ:▀▄▀▄▀▄
+### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@
   </a>
 </p>
 
-### sᴛᴜᴅʏɪɴɢ ɪɴ ᴛʜɪs ᴍᴏᴍᴇɴᴛ
+### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 Now:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-### Other Knowledge
+### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
 
 <p align="left">
   <a href="https://skillicons.dev">
