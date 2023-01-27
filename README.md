@@ -25,15 +25,15 @@
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
 
-### FrontEnd
+### FrontEnd Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,ps,mysql&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,mysql,ps,figma&theme=dark" />
   </a>
 </p>
 
-### CSharp / Java / Python Skills
+### C# | Java | Python Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,6 +42,12 @@
 </p>
 
 ### Studying in this moment
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,styledcomponents&theme=dark" />
+  </a>
+</p>
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
