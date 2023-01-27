@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,idea,java,spring,vscode,py,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,flask&theme=dark" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,ps,figma,linux&theme=dark" />
   </a>
 </p>
 
