@@ -16,27 +16,14 @@
 <li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades principalmente em programação no 1° ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades focadas no desenvolvimento de Software nos colocando como empresas, nos fazendo entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites. (PS: Algumas técnologias desenvolvidas, porém, que estão sem icone ainda: | XAMARIN | MSSQL | XAMP | Postman API |</li>
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,jquery,bootstrap,git,github,visualstudio,ps,cs,dotnet,php,mysql,aws,azure&theme=dark&perline=8" />
-  </a>
-</p>
-
 <li>🎓 Na faculdade pude desenvolver melhor boa parte das técnlogias que aprendi no curso técnico e principalmente o conhecimento com Hardware, tendo ainda mais situações desafiadoras. Consegui aprender e desenvolver muitos projetos e códigos em linguagens que ainda não tinha tido contato afundo como Java e Python</li>
 <br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,linux&theme=dark" />
-  </a>
-</p>
 
 <li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual desenvolvi muitas habilidades com diversos sistemas operacionais (SO) e também com suporte e manutenção de computadores/servidores. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana sobre a lógica e dos processos de criações e manutenções avançados de Hardware.</li>
 <br>
 
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
-
 
 ### FrontEnd
 
