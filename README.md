@@ -1,28 +1,23 @@
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Setup">
+
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-  <br><p align="centre"><b>Visitors Count</b></p>
+  <br><p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 </div>
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-## Prazer, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
+## Fala, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
 <ul align="justify">
+ 
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
-<br>
-<li>🚀 Cursando Desenvolvimento Mobile na Universidade Cruzeiro do Sul! </li><br>
+<li>📍Tecnólogo em Desenvolvimento Mobile, Unicul (02/2023 > 12/2024)</li>
+<li>🎓1 Ano Bacharel em Ciência da Computação, Unicsul (02/2022 > 02/2023)</li>
+<li>🎓2 Anos de Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
+<li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (08/2021 > 04/2022)</li>
 
-<li>🎓 Estudei por 2 anos no curso "Técnico em Informática" no Senac, na qual pude aprender e a desenvolver muitas habilidades principalmente em programação no 1° ano de 'Desenvolvimento de Sistemas'. Houveram muitas unidades focadas no desenvolvimento de Software nos colocando como empresas, nos fazendo entrarmos em algumas para entrevistar e documentar como a organização de projetos funcionam. Também tive que aprender como executar testes de codificação, manutenção e documentação de aplicativos computacionais para desktop e para internet, além de desenvolver e organizar elementos estruturais de sites.
 <br>
-
-<li>🎓 Na faculdade pude desenvolver melhor boa parte das técnlogias que aprendi no curso técnico e principalmente o conhecimento com Hardware, tendo ainda mais situações desafiadoras. Consegui aprender e desenvolver muitos projetos e códigos em linguagens que ainda não tinha tido contato afundo como Java e Python</li>
-<br>
-
-<li>🎓 No último ano do curso "Técnico em Informática" desenvolvi a parte de 'Hardware e Redes', na qual desenvolvi muitas habilidades com diversos sistemas operacionais (SO) e também com suporte e manutenção de computadores/servidores. Em 'Redes' ainda tive a oportunidade de ganhar e desenvolver o curso da Cisco na plataforma Cisco Networking Academy cujo nome do curso é "IT Essentials: PC Hardware and Software", tendo provas constantes toda semana sobre a lógica e dos processos de criações e manutenções avançados de Hardware.</li>
-<br>
-
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
 
@@ -42,7 +37,7 @@
   </a>
 </p>
 
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 Now:
+### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
 
 <p align="left">
   <a href="https://skillicons.dev">
