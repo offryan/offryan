@@ -27,7 +27,7 @@
 
 ### FrontEnd
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,ps,mysql&theme=dark&perline=8" />
   </a>
@@ -35,9 +35,9 @@
 
 ### CSharp / Java / Python Skills
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,flask,py,spring&theme=dark&perline=2" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,flask,py,spring&theme=dark" />
   </a>
 </p>
 
