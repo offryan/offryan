@@ -39,27 +39,20 @@
 
 
 ### FrontEnd
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,ps,mysql&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,bootstrap,ps,mysql&theme=dark&perline=8" />
   </a>
 </p>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 ### CSharp
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark&perline=8" />
+  </a>
+</p>
 
 ### Java
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,flask&theme=dark&perline=8" />
@@ -67,7 +60,6 @@
 </p>
 
 ### Python
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,spring&theme=dark&perline=8" />
