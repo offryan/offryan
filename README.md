@@ -46,19 +46,20 @@
 </p>
 
 ### CSharp / Java / Python Skills
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark&perline=8" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,flask&theme=dark&perline=8" />
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,spring&theme=dark&perline=8" />
   </a>
