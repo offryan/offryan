@@ -12,7 +12,7 @@
 <li>📍Tecnólogo em Desenvolvimento Mobile, Unicul (02/2023 > 12/2024)</li>
 <li>🎓1 Ano Bacharel em Ciência da Computação, Unicsul (02/2022 > 02/2023)</li>
 <li>🎓2 Anos de Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
-<li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (08/2021 > 04/2022)</li>
+<li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (10/2021 > 04/2022)</li>
 <br>
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
