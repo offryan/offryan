@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,jquery,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap&theme=dark" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,angular&theme=dark" />
   </a>
 </p>
 
