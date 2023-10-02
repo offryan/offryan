@@ -9,7 +9,7 @@
 <ul align="justify">
  
 <li>📍Sou de São Paulo - SP e tenho 20 anos </li>
-<li>📍Tecnólogo em Desenvolvimento Mobile, Unicsul (02/2023 > 12/2024)</li>
+<li>🎓Tecnólogo em Desenvolvimento Mobile, Unicsul (02/2023 > 12/2024)</li>
 <li>🎓1 Ano Bacharel em Ciência da Computação, Unicsul (02/2022 > 02/2023)</li>
 <li>🎓2 Anos de Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
 <li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (10/2021 > 04/2022)</li>
