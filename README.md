@@ -8,10 +8,11 @@
 
 <ul align="justify">
  
-<li>📍Sou de São Paulo - SP e tenho 21 anos </li>
-<li>🎓Tecnólogo em Desenvolvimento Mobile, Unicsul (02/2023 > 12/2024)</li>
-<li>🎓1 Ano Bacharel em Ciência da Computação, Unicsul (02/2022 > 02/2023)</li>
-<li>🎓2 Anos de Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
+<li>📍Sou de São Paulo - SP e tenho 22 anos </li>
+
+<li>🎓Atualmente no 3 semestre em Ciência da Computação EAD, Unicsul (01/2023 > 12/2026)</li>
+<li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul (01/2023 > 12/2024)</li>
+<li>🎓2 Anos - Curso Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
 <li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (10/2021 > 04/2022)</li>
 <br>
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
