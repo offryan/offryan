@@ -10,7 +10,7 @@
  
 <li>📍Sou de São Paulo - SP e tenho 22 anos </li>
 
-<li>🎓Atualmente no 3 semestre em Ciência da Computação EAD, Unicsul (01/2023 > 12/2026)</li>
+<li>🎓Atualmente no 3º semestre em Ciência da Computação EAD, Unicsul (01/2023 > 12/2026)</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul (01/2023 > 12/2024)</li>
 <li>🎓2 Anos - Curso Técnico em Informática, Senac São Paulo (10/2020 > 06/2022)</li>
 <li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy (10/2021 > 04/2022)</li>
