@@ -8,7 +8,7 @@
 
 <ul align="justify">
  
-<li>📍Sou de São Paulo - SP e tenho 21 anos </li>
+<li>📍Sou de São Paulo - SP </li>
 
 <li>🎓Atualmente no 3º semestre em Ciência da Computação EAD, Unicsul (01/2023 > 12/2026)</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul (01/2023 > 12/2024)</li>
