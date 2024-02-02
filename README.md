@@ -12,8 +12,7 @@
 
 <li>🎓Atualmente no 3º semestre em Ciência da Computação EAD, Unicsul</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
-<li>🎓2 Anos - Curso Técnico em Informática, Senac São Paulo </li>
-<li>🎓6 Meses de IT Essentials: PC Hardware and Software, Cisco Networking Academy </li>
+<li>🎓2 Anos - Tecnólogo em Técnico em Informática, Senac São Miguel </li>
 <br>
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
