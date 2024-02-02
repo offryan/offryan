@@ -8,7 +8,7 @@
 
 <ul align="justify">
  
-<li>📍Sou de São Paulo - SP </li>
+<li>📍Sou da Capital de São Paulo </li>
 
 <li>🎓Atualmente no 3º semestre em Ciência da Computação EAD, Unicsul</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
