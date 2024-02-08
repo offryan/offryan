@@ -4,7 +4,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{offryan}/count.svg" /></p>
 </div>
 
-## Fala, Dev! Eu sou a Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
+## Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu mundo de códigos :)
 
 <ul align="justify">
  
