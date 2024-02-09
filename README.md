@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
   </a>
 </p>
 
