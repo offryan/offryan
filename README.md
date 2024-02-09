@@ -49,7 +49,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,ps,figma,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&theme=dark" />
   </a>
 </p>
 
