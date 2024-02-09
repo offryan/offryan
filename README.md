@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,angular&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,react&theme=dark" />
   </a>
 </p>
 
