@@ -12,7 +12,7 @@
 
 <li>🎓No 3º semestre em Ciência da Computação EAD, Unicsul</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
-<li>🎓2 Anos - Tecnólogo em Técnico em Informática, Senac São Miguel </li>
+<li>🎓 Tecnólogo em Técnico em Informática, Senac São Miguel </li>
 <br>
 <li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
 </ul>
