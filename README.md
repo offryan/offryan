@@ -10,7 +10,7 @@
  
 <li>📍Sou da Capital de São Paulo </li>
 
-<li>🎓No 3º semestre em Ciência da Computação EAD, Unicsul</li>
+<li>🎓No 4º semestre em Ciência da Computação EAD, Unicsul</li>
 <li>🎓1 Ano - Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
 <li>🎓 Tecnólogo em Técnico em Informática, Senac São Miguel </li>
 <br>
