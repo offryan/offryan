@@ -10,11 +10,11 @@
  
 <li>📍Sou da Capital de São Paulo </li>
 
-<li>🎓No 5/8 semestre em Ciência da Computação, Unicsul</li>
+<li>🎓 No 5/8 semestre em Ciência da Computação, Unicsul</li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação, Senac </li>
 <br>
-<li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd, podendo atuar como FullStack. </li>
+<li>💻 Atualmente disponivel para estágios na area de desenvolvimento FrontEnd e/ou BackEnd </li>
 </ul>
 
 
