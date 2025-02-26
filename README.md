@@ -10,7 +10,7 @@
  
 <li>📍Sou da Capital de São Paulo </li>
 
-<li>🎓 No 5/8 semestre em Ciência da Computação, Unicsul</li>
+<li>🎓 5/8 Ciência da Computação, Unicsul</li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação, Senac </li>
 <br>
