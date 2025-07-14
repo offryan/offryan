@@ -7,8 +7,6 @@
 ## Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu espaço de códigos :)
 
 <ul align="justify">
- 
-<li>📍 Sou da Capital de São Paulo </li>
 
 <li>🎓 6/8 Ciência da Computação, Unicsul</li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
