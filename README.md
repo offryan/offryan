@@ -12,7 +12,7 @@
 <li>🎓 Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação, Senac </li>
 <br>
-<li>💻 Atualmente disponivel para atuar como desenvolvimento FrontEnd e/ou BackEnd, além de Mobile </li>
+<li>💻 Atualmente disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
 </ul>
 
 
