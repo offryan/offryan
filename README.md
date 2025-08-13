@@ -8,9 +8,9 @@
 
 <ul align="justify">
 
-<li>🎓 6/8 Ciência da Computação, Unicsul</li>
-<li>🎓 Tecnólogo em Desenvolvimento Mobile, Unicsul </li>
-<li>🎓 Curso Técnico em Tecnologia da Informação, Senac </li>
+<li>🎓 6/8 Ciência da Computação </li>
+<li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
+<li>🎓 Curso Técnico em Tecnologia da Informação </li>
 <br>
 <li>💻 Atualmente disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
 </ul>
