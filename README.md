@@ -4,12 +4,10 @@
 </div>
 
 <div align = "center">
-<ul align = "justify">
-<li>🎓 6/8 Ciência da Computação </li>
-<li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
-<li>🎓 Curso Técnico em Tecnologia da Informação </li>
-<li>💻 Atualmente disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
-</ul>
+🎓 6/8 Ciência da Computação 
+🎓 Tecnólogo em Desenvolvimento Mobile
+🎓 Curso Técnico em Tecnologia da Informação
+💻 Atualmente disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile
 </div>
 
 <div align = "left">
