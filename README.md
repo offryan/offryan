@@ -3,7 +3,7 @@
   <br><p align="center"><b>Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu mundo</b></p>
 </div>
 
-<ul align="justify">
+<ul align="center">
 <li>🎓 6/8 Ciência da Computação </li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação </li>
