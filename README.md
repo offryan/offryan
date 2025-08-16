@@ -4,7 +4,7 @@
 </div>
 
 <div align = "center">
-<ul>
+<ul align = "justify">
 <li>🎓 6/8 Ciência da Computação </li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação </li>
