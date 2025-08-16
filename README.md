@@ -1,9 +1,7 @@
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-  <br><p align="center"><b>Visitors Count</b></p>
+  <br><p align="center"><b>## Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu espaço de códigos :)</b></p>
 </div>
-
-## Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu espaço de códigos :)
 
 <ul align="justify">
 
