@@ -3,12 +3,14 @@
   <br><p align="center"><b>Fala, Dev! Me chamo Ryan, e seja muito bem-vindo ao meu mundo</b></p>
 </div>
 
-<ul align="center">
+<div align = "center">
+<ul>
 <li>🎓 6/8 Ciência da Computação </li>
 <li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
 <li>🎓 Curso Técnico em Tecnologia da Informação </li>
 <li>💻 Atualmente disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
 </ul>
+</div>
 
 <div align = "left">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
