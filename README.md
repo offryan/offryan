@@ -50,7 +50,7 @@
 ### 𝘍𝘦𝘢𝘵𝘶𝘳𝘦𝘥 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴:
 
 <ul align = "justify">
-<li>🐾 <a href="https://github.com/offryan/CHATEAU-DU-PET"><b>Chateau Du Pet</b></a>: site <a href="https://chateaudupet.com.br">no ar</a> + app desktop + app mobile para um cliente real (C#, ASP.NET, SQL Server) </li>
+<li>🐾 <a href="https://github.com/offryan/CHATEAU-DU-PET"><b>Chateau Du Pet</b></a>: plataforma de vagas do mercado pet (TCC com <a href="https://chateaudupet.com.br">cliente real</a>), migrada de Web Forms para .NET 8 + PostgreSQL + Docker · <a href="https://chateau-du-pet-demo.onrender.com">testar</a> </li>
 <li>🔁 <a href="https://github.com/offryan/ConversorWeb"><b>Conversor ICS/MBOX</b></a>: agenda e e-mails para CSV/JSON, front na Vercel + <a href="https://github.com/offryan/ConversorAPI">API em FastAPI</a> · <a href="https://conversor-pi-gilt.vercel.app">testar</a> </li>
 <li>🗣️ <a href="https://github.com/offryan/offryan-text-to-speech"><b>Text-to-Speech com Gemini</b></a>: sotaques regionais do Brasil e estúdio de tons para vídeos (TypeScript, React) </li>
 <li>📄 <a href="https://github.com/offryan/D4Sign_Downloader"><b>D4Sign Downloader</b></a>: lista e baixa em lote documentos assinados na D4Sign (Python, Flask) </li>
