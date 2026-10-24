@@ -1,58 +1,78 @@
-<div align = "center">
-  <br><p align="center"><b>Fala, Dev! Seja muito bem-vindo ao meu mundo</b></p>
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+<div align="center">
+
+# Fala, Dev! Eu sou o Ryan 👋
+
+**Dev full-stack .NET de São Paulo** · automatizo tarefa chata com IA · aprendendo game dev
+
+<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:offryan.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
 
-<ul align = "justify">
-<li>🎓 Ciência da Computação </li>
-<li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
-<li>🎓 Técnico em Tecnologia da Informação </li>
-<li>💻 Disponivel para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
-</ul>
+---
 
-<div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
+## 🚀 Projetos em destaque
 
-### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
+### 🐾 [Chateau Du Pet](https://github.com/offryan/CHATEAU-DU-PET): sistema completo para um cliente real
+Site institucional **no ar** para um pet shop, mais um app desktop de vagas (empresas e candidatos, com área admin) e um app mobile para os candidatos.
+`C#` `ASP.NET` `SQL Server` `Bootstrap` · arquitetura em camadas (BLL / DAL / DTO)
+🔗 [chateaudupet.com.br](https://chateaudupet.com.br)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
-  </a>
-</p>
+### 🔁 [Conversor ICS/MBOX → CSV/JSON](https://github.com/offryan/ConversorWeb)
+Exporta agenda (`.ics`) e e-mails (`.mbox`) para CSV ou JSON direto pelo navegador. Front na Vercel e [API em FastAPI](https://github.com/offryan/ConversorAPI).
+`JavaScript` `Python` `FastAPI`
+🔗 [Testar agora](https://conversor-pi-gilt.vercel.app)
 
-### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
+### 🗣️ [Text-to-Speech com Gemini](https://github.com/offryan/offryan-text-to-speech)
+Conversor de texto em fala com o Gemini 3.1 Flash TTS: sotaques regionais do Brasil, ajuste de tom por tags, painel de uso e favoritos criptografados.
+`TypeScript` `React` `Express` `Gemini API` `Tailwind`
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=dark" />
-  </a>
-</p>
+### 📄 [D4Sign Downloader](https://github.com/offryan/D4Sign_Downloader)
+App que se conecta à API da D4Sign (assinatura eletrônica), lista os documentos finalizados e baixa um por um ou em lote por período.
+`Python` `Flask` `REST API` · deploy no Render
 
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
+### 🧩 [WebAPI Funcionários](https://github.com/offryan/WebAPI-Funcionarios)
+API REST de gestão de funcionários com CRUD completo e documentação no Swagger.
+`C#` `.NET 6` `Entity Framework` `SQL Server` · Repository Pattern
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react&theme=dark" />
-  </a>
-</p>
+### 🎈 [Explode Balões](https://github.com/offryan/Game-Explode-Ballons)
+Jogo de navegador: estoure 80 balões antes do tempo acabar, com 3 níveis de dificuldade.
+`JavaScript` `jQuery`
+🎮 [Jogar](https://offryan.github.io/Game-Explode-Ballons/)
 
-### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
+---
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&theme=dark" />
-  </a>
-</p>
+## 🔭 No que estou mexendo agora
 
-<br>
-<!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+- 🤖 **IA aplicada:** voz (TTS), transcrição com Whisper e agentes/skills com Claude Code
+- 🎮 **Game dev:** saindo do jogo de navegador para projetos maiores
+- ⛏️ **Por diversão:** modding de Minecraft com [KubeJS](https://github.com/offryan/kubejs)
+
+---
+
+## 🛠️ Stack
+
+**Back-end**
+<p><img src="https://skillicons.dev/icons?i=cs,dotnet,py,nodejs,java&theme=dark" /></p>
+
+**Front-end**
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap&theme=dark" /></p>
+
+**Banco e ferramentas**
+<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,git,linux,vscode,visualstudio,figma&theme=dark" /></p>
+
+---
+
+## 🎓 Formação
+
+- Bacharel em Ciência da Computação
+- Tecnólogo em Desenvolvimento Mobile
+- Técnico em Tecnologia da Informação
 
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:offryan.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+💼 **Aberto a oportunidades como dev Back-End, Front-End ou Mobile.** Me chama no [LinkedIn](https://www.linkedin.com/in/offryan/) ou no [e-mail](mailto:offryan.dev@gmail.com).
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
