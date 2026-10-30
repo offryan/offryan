@@ -3,13 +3,12 @@
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFBF&center=true&vCenter=true&width=520&lines=Dev+full-stack+.NET;Automatizo+tarefa+chata+com+IA;Aprendendo+game+dev;Dispon%C3%ADvel+para+FrontEnd%2C+BackEnd+e+Mobile" alt="Dev full-stack .NET · Automatizo tarefa chata com IA · Aprendendo game dev · Disponível para FrontEnd, BackEnd e Mobile" /></a>
-</p>
-
-<p align="center">
-  Ciência da Computação · Tecnólogo em Desenvolvimento Mobile · Técnico em Tecnologia da Informação
-</p>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFBF&center=true&vCenter=true&width=520&height=40&lines=Dev+full-stack+.NET;Automatizo+tarefa+chata+com+IA;Aprendendo+game+dev;Dispon%C3%ADvel+para+FrontEnd%2C+BackEnd+e+Mobile" alt="Dev full-stack .NET · Automatizo tarefa chata com IA · Aprendendo game dev · Disponível para FrontEnd, BackEnd e Mobile" /></a>
+  <br>
+  Ciência da Computação · Tecnólogo em Desenvolvimento Mobile<br>
+  Técnico em Tecnologia da Informação
+</h3>
 
 <div align = "left">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" alt="Setup"></div>
