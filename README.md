@@ -12,8 +12,9 @@
 <li>💼 Disponível para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
 </ul>
 
-<div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
+<table>
+<tr>
+<td valign="top">
 
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
@@ -88,14 +89,16 @@
   <a href="https://www.figma.com" title="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" /></a>
 </p>
 
-<br>
+</td>
+<td valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="350px" alt="Setup">
 <!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
-
-<div align="center">
+<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h3>
 <a href="https://www.instagram.com/0ffryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ryan.gsantos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</td>
+</tr>
+</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
