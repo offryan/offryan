@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,vite,tailwindcss,bootstrap,jquery&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,vite,tailwindcss,bootstrap,jquery&theme=dark&perline=5" />
   </a>
 </p>
 
