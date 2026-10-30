@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,flask,nodejs,express,java&theme=dark" />
   </a>
 </p>
 
@@ -27,7 +27,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,tailwind,bootstrap,jquery&theme=dark" />
+  </a>
+</p>
+
+### 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 & 𝘋𝘦𝘷𝘖𝘱𝘴:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,githubactions,vercel,linux&theme=dark" />
   </a>
 </p>
 
@@ -35,7 +43,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
   </a>
 </p>
 
@@ -43,7 +51,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,powershell,ps,figma&theme=dark" />
   </a>
 </p>
 
