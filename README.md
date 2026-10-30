@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,unity&theme=dark" />
   </a>
 </p>
 
