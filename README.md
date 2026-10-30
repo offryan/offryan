@@ -18,49 +18,74 @@
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,py,fastapi,flask,nodejs,expressjs,java&theme=dark" />
-  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" width="48" alt="C#" title="C#" /></a>
+  <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" width="48" alt=".NET" title=".NET" /></a>
+  <a href="https://www.python.org" title="Python"><img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" width="48" alt="Python" title="Python" /></a>
+  <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" width="48" alt="FastAPI" title="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark" width="48" alt="Flask" title="Flask" /></a>
+  <br>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" width="48" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com" title="Express"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=dark" width="48" alt="Express" title="Express" /></a>
+  <a href="https://www.java.com" title="Java"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" width="48" alt="Java" title="Java" /></a>
 </p>
 
 ### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,vite,tailwindcss,bootstrap,jquery&theme=dark&perline=5" />
-  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" width="48" alt="HTML5" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" width="48" alt="CSS3" title="CSS3" /></a>
+  <a href="https://sass-lang.com" title="Sass"><img src="https://go-skill-icons.vercel.app/api/icons?i=sass&theme=dark" width="48" alt="Sass" title="Sass" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" width="48" alt="TypeScript" title="TypeScript" /></a>
+  <br>
+  <a href="https://react.dev" title="React"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="48" alt="React" title="React" /></a>
+  <a href="https://vite.dev" title="Vite"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark" width="48" alt="Vite" title="Vite" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&theme=dark" width="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&theme=dark" width="48" alt="Bootstrap" title="Bootstrap" /></a>
+  <a href="https://jquery.com" title="jQuery"><img src="https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=dark" width="48" alt="jQuery" title="jQuery" /></a>
 </p>
 
 ### 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 & 𝘋𝘦𝘷𝘖𝘱𝘴:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,supabase,docker,git,github,githubactions,vercel,render,linux&theme=dark&perline=5" />
-  </a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" width="48" alt="SQL Server" title="SQL Server" /></a>
+  <a href="https://supabase.com" title="Supabase"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" width="48" alt="Supabase" title="Supabase" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="48" alt="Git" title="Git" /></a>
+  <br>
+  <a href="https://github.com" title="GitHub"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" /></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" /></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel" /></a>
+  <a href="https://render.com" title="Render"><img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark" width="48" alt="Render" title="Render" /></a>
+  <a href="https://www.kernel.org" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" /></a>
 </p>
 
 ### 𝘈𝘐 & 𝘋𝘢𝘵𝘢:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,pbi&theme=dark" />
-  </a>
+  <a href="https://claude.ai" title="Claude"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" width="48" alt="Claude" title="Claude" /></a>
+  <a href="https://gemini.google.com" title="Gemini"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark" width="48" alt="Gemini" title="Gemini" /></a>
+  <a href="https://www.microsoft.com/power-platform/products/power-bi" title="Power BI"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" width="48" alt="Power BI" title="Power BI" /></a>
 </p>
 
 ### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,unity&theme=dark" />
-  </a>
+  <a href="https://angular.dev" title="Angular"><img src="https://go-skill-icons.vercel.app/api/icons?i=angular&theme=dark" width="48" alt="Angular" title="Angular" /></a>
+  <a href="https://unity.com" title="Unity"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity&theme=dark" width="48" alt="Unity" title="Unity" /></a>
 </p>
 
 ### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
 
 <p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,powershell,photoshop,figma&theme=dark" />
-  </a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" /></a>
+  <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio" /></a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea&theme=dark" width="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>
+  <a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=dark" width="48" alt="PowerShell" title="PowerShell" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop&theme=dark" width="48" alt="Photoshop" title="Photoshop" /></a>
+  <br>
+  <a href="https://www.figma.com" title="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" /></a>
 </p>
 
 <br>
