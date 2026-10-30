@@ -1,71 +1,60 @@
-<div align = "center">
-  <br><p align="center"><b>Fala, Dev! Seja muito bem-vindo ao meu mundo</b></p>
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
+<dividir >
+  <br><p alinhar="centro"><b>Fala, Dev! Veja muito bem-vindo ao meu mundo</b></p>
+  <imagem alta = "140px" fonte = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</dividir>
 
-<ul align = "justify">
-<li>💻 Dev full-stack .NET · automatizo tarefa chata com IA · aprendendo game dev </li>
-<li>🎓 Ciência da Computação </li>
-<li>🎓 Tecnólogo em Desenvolvimento Mobile </li>
-<li>🎓 Técnico em Tecnologia da Informação </li>
-<li>🔭 Agora: IA aplicada (voz, transcrição com Whisper, agentes com Claude Code) e game dev </li>
-<li>💼 Disponível para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
+<ul alinhar = "justificador">
+<eu>💻 Dev full-stack.NET · automatizo tarefa chata com IA · aprendiz game dev </eu>
+<eu>🎓 Ciência da Computação </eu>
+<eu>🎓 Tecnologia em Desenvolvimento Móvel </eu>
+<eu>🎓 Técnico em Tecnologia da Informação </eu>
+<eu>🔭 Agora: IA aplicada (voz, transcrição com Whisper, agentes com Claude Code) e game dev </eu>
+<eu>💼 Disponível para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </eu>
 </ul>
 
-<div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
+<dividir alinhar = "esquerda">
+<imagem fonte="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alinhar="certo" largura="350px" exibir="bloco em linha" alt="Configuração"></dividir>
 
-### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
+### Desenvolvimento Back-End:
 
-<p align="left">
+<p alinhar="esquerda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
+    <imagem fonte="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&tema=escuro" />
   </a>
 </p>
 
-### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
+### Desenvolvimento Front-End:
 
-<p align="left">
+<p alinhar="esquerda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=dark" />
+    <imagem fonte="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&tema=escuro" />
   </a>
 </p>
 
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
+### Estudando:
 
-<p align="left">
+<p alinhar="esquerda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react&theme=dark" />
+    <imagem fonte="https://skillicons.dev/icons?i=angular,ts,react&tema=escuro" />
   </a>
 </p>
 
-### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
+### Outros conhecimentos:
 
-<p align="left">
+<p alinhar="esquerda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&theme=dark" />
+    <imagem fonte="https://skillicons.dev/icons?i=ps,linux,idea,vscode,visualstudio,figma&tema=escuro" />
   </a>
 </p>
-
-### 𝘍𝘦𝘢𝘵𝘶𝘳𝘦𝘥 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴:
-
-<ul align = "justify">
-<li>🐾 <a href="https://github.com/offryan/CHATEAU-DU-PET"><b>Chateau Du Pet</b></a>: plataforma de vagas do mercado pet (TCC com <a href="https://chateaudupet.com.br">cliente real</a>), migrada de Web Forms para .NET 8 + PostgreSQL + Docker · <a href="https://chateau-du-pet-demo.onrender.com">testar</a> </li>
-<li>🔁 <a href="https://github.com/offryan/ConversorWeb"><b>Conversor ICS/MBOX</b></a>: agenda e e-mails para CSV/JSON, front na Vercel + <a href="https://github.com/offryan/ConversorAPI">API em FastAPI</a> · <a href="https://conversor-pi-gilt.vercel.app">testar</a> </li>
-<li>🗣️ <a href="https://github.com/offryan/offryan-text-to-speech"><b>Text-to-Speech com Gemini</b></a>: sotaques regionais do Brasil e estúdio de tons para vídeos (TypeScript, React) </li>
-<li>📄 <a href="https://github.com/offryan/D4Sign_Downloader"><b>D4Sign Downloader</b></a>: lista e baixa em lote documentos assinados na D4Sign (Python, Flask) </li>
-<li>🧩 <a href="https://github.com/offryan/WebAPI-Funcionarios"><b>WebAPI Funcionários</b></a>: API REST com .NET 6, Entity Framework, SQL Server e Swagger </li>
-<li>🎈 <a href="https://github.com/offryan/Game-Explode-Ballons"><b>Explode Balões</b></a>: jogo de navegador em JavaScript · <a href="https://offryan.github.io/Game-Explode-Ballons/">jogar</a> </li>
-</ul>
 
 <br>
 <!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+<h3 alinhar="centro">:telefone: <i>CONTATOS</i> :telefone:</h2>
 
-<div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:offryan.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<dividir alinhar="centro">
+<a href="#" alto="https://www.instagram.com/0ffryan"><imagem fonte="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logotipo=instagram&logoColor=branco" alto="_em branco"></a>
+<a href = "mailto:ryan.gsantos3@gmail.com"><imagemfonte="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logotipo=gmail&logoColor=branco" alto="_em branco"></a>
+<a href="https://www.linkedin.com/in/offryan/" alto="_em branco"><imagem fonte="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco" alto="_em branco"></a>
+</dividir>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<imagem largura=100% fonte="https://capsule-render.vercel.app/api?type=waving&cor=00bfbf&alta=120&sessão=rodapé"/>
