@@ -3,12 +3,11 @@
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
 
-<h3 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFBF&center=true&vCenter=true&width=520&height=40&lines=Dev+full-stack+.NET;Automatizo+tarefa+chata+com+IA;Aprendendo+game+dev;Dispon%C3%ADvel+para+FrontEnd%2C+BackEnd+e+Mobile" alt="Dev full-stack .NET · Automatizo tarefa chata com IA · Aprendendo game dev · Disponível para FrontEnd, BackEnd e Mobile" /></a>
   <br>
-  Ciência da Computação · Tecnólogo em Desenvolvimento Mobile<br>
-  Técnico em Tecnologia da Informação
-</h3>
+  Ciência da Computação · Tecnólogo em Desenvolvimento Mobile · Técnico em Tecnologia da Informação
+</p>
 
 <div align = "left">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" alt="Setup"></div>
@@ -53,11 +52,11 @@
 </p>
 
 <!--Contatos-->
-<div align="right">
-<h3>:phone: <i>C O N T A T O S</i> :phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+<div align="center">
+<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h3>
 <a href="https://www.instagram.com/0ffryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ryan.gsantos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
