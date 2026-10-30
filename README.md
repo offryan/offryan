@@ -18,40 +18,48 @@
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,flask,nodejs,express,java&theme=dark" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,py,fastapi,flask,nodejs,expressjs,java&theme=dark" />
   </a>
 </p>
 
 ### 𝘍𝘳𝘰𝘯𝘵-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,tailwind,bootstrap,jquery&theme=dark" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,vite,tailwindcss,bootstrap,jquery&theme=dark" />
   </a>
 </p>
 
 ### 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 & 𝘋𝘦𝘷𝘖𝘱𝘴:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,githubactions,vercel,linux&theme=dark" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlserver,docker,git,github,githubactions,vercel,render,linux&theme=dark" />
+  </a>
+</p>
+
+### 𝘈𝘐 & 𝘋𝘢𝘵𝘢:
+
+<p align="left">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,pbi&theme=dark" />
   </a>
 </p>
 
 ### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular&theme=dark" />
   </a>
 </p>
 
 ### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,powershell,ps,figma&theme=dark" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,powershell,photoshop,figma&theme=dark" />
   </a>
 </p>
 
