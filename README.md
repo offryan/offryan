@@ -12,9 +12,8 @@
 <li>💼 Disponível para atuar como desenvolvedor FrontEnd, BackEnd e Mobile </li>
 </ul>
 
-<table>
-<tr>
-<td valign="top">
+<div align = "left">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" alt="Setup"></div>
 
 ### 𝘉𝘢𝘤𝘬-𝘌𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵:
 
@@ -46,22 +45,6 @@
   <a href="https://jquery.com" title="jQuery"><img src="https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=dark" width="48" alt="jQuery" title="jQuery" /></a>
 </p>
 
-### 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 & 𝘋𝘦𝘷𝘖𝘱𝘴:
-
-<p align="left">
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" width="48" alt="SQL Server" title="SQL Server" /></a>
-  <a href="https://supabase.com" title="Supabase"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" width="48" alt="Supabase" title="Supabase" /></a>
-  <a href="https://www.docker.com" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" /></a>
-  <a href="https://git-scm.com" title="Git"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="48" alt="Git" title="Git" /></a>
-  <br>
-  <a href="https://github.com" title="GitHub"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" /></a>
-  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" /></a>
-  <a href="https://vercel.com" title="Vercel"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel" /></a>
-  <a href="https://render.com" title="Render"><img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark" width="48" alt="Render" title="Render" /></a>
-  <a href="https://www.kernel.org" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" /></a>
-</p>
-
 ### 𝘈𝘐 & 𝘋𝘢𝘵𝘢:
 
 <p align="left">
@@ -70,35 +53,14 @@
   <a href="https://www.microsoft.com/power-platform/products/power-bi" title="Power BI"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" width="48" alt="Power BI" title="Power BI" /></a>
 </p>
 
-### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨:
+<br clear="right">
 
-<p align="left">
-  <a href="https://angular.dev" title="Angular"><img src="https://go-skill-icons.vercel.app/api/icons?i=angular&theme=dark" width="48" alt="Angular" title="Angular" /></a>
-  <a href="https://unity.com" title="Unity"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity&theme=dark" width="48" alt="Unity" title="Unity" /></a>
-</p>
-
-### 𝘖𝘵𝘩𝘦𝘳 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦:
-
-<p align="left">
-  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" /></a>
-  <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio" /></a>
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea&theme=dark" width="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>
-  <a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=dark" width="48" alt="PowerShell" title="PowerShell" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop&theme=dark" width="48" alt="Photoshop" title="Photoshop" /></a>
-  <br>
-  <a href="https://www.figma.com" title="Figma"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" /></a>
-</p>
-
-</td>
-<td valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="350px" alt="Setup">
 <!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h3>
+<div align="right">
+<h3>:phone: <i>C O N T A T O S</i> :phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 <a href="https://www.instagram.com/0ffryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ryan.gsantos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/offryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
