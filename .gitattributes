@@ -1,0 +1,8 @@
+# Fim de linha igual em qualquer sistema: o Git guarda e entrega os arquivos de texto com LF.
+# Evita "alterações" que são só diferença de fim de linha entre Windows e Linux.
+* text=auto eol=lf
+
+# Scripts do Windows precisam de CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
